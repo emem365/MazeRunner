@@ -35,6 +35,8 @@ maze =  np.array([
 ])
 
 model = train_model.build_model(maze)
+
+qmaze=Qmaze(maze)
 train_model.qtrain(model, maze, epochs=1000, max_memory=8*maze.size, data_size=32)
 train_model.play_game(model, qmaze, (0,0))
 show(qmaze)

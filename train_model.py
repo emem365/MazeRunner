@@ -4,6 +4,8 @@ from keras.models import Sequential
 from keras.layers.core import Dense, Activation
 from keras.optimizers import SGD, Adam, RMSprop
 from keras.layers.advanced_activations import PReLU
+from constants import *
+
 
 #import maze_state
 from maze_state import Qmaze
