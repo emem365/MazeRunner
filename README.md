@@ -1,6 +1,6 @@
 # MazeRunner
 
-A maze solver to find the shortestpath from start to end using Deep Q Learning
+A maze solver to find the shortest path from start to end using Deep Q Learning
 
 ## Getting Started
 
