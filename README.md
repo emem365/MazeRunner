@@ -46,11 +46,6 @@ You should look for a numpy array looking named as maze, which you need to modif
 
 * [Keras](https://keras.io/) - Used for training the neural network model
 
-## Authors
-
-* **Madhur Maurya** - *Initial work* - [emem365](https://github.com/emem365)
-
-See also the list of [contributors](https://github.com/emem365/MazeRunner/contributors) who participated in this project.
 
 ## License
 
